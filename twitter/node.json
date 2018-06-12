@@ -51,7 +51,7 @@
         ],
         "default": 5
     }, {
-        "title": "Exlude tweets before",
+        "title": "Exclude tweets before",
         "ui_width": 3,
         "name": "not_before",
         "type": "string",

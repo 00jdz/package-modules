@@ -46,7 +46,7 @@ local function update_feed()
             end
         end
 
-        local duration = (#entry.title + #entry.summary) / 10 + 2
+        local duration = (#entry.title + #entry.summary) / 40 + 2
 
         playlist[#playlist+1] = {
             duration = duration,
